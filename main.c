@@ -11,6 +11,5 @@ void branch_a(){
 }
 
 void branch_b(){
-    //abbc
-    int temp = 0;
+    
 }
