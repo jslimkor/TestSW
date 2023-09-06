@@ -5,3 +5,7 @@ main(){
 
     c = a + b
 }
+
+void branch_a(){
+    
+}
