@@ -11,5 +11,5 @@ void branch_a(){
 }
 
 void branch_b(){
-    
+    int kk = 10;
 }
