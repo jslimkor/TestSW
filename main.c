@@ -9,3 +9,7 @@ main(){
 void branch_a(){
     
 }
+
+void branch_b(){
+    
+}
